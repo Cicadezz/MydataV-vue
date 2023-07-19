@@ -4,6 +4,8 @@
  * @LastEditors: Please set LastEditors
  * @LastEditTime: 2022-04-29 15:12:50
  */
+
+//测试测试测试111111git
 const path = require("path");
 function resolve(dir) {
   return path.join(__dirname, dir);
